@@ -1,0 +1,105 @@
+html *
+{
+   font-family: Century Gothic !important;
+}
+
+.page-main {
+  width: 800px;
+  background-color: #aaaaaa;
+  margin: auto;
+}
+
+.page-header {
+  color: #000000;
+  margin: 10px;
+  border-bottom: #000000 solid;
+  /*background-color: #ff0000;*/
+  display: block;
+  height: 50px;
+}
+
+.page-body {
+  color: #000000;
+  margin: 10px;
+  /*background-color: #ff0000;*/
+  display: block;
+  height: 800px;
+}
+
+.inner1-1 {
+  text-align: center;
+  /*background-color: #0000ff;*/
+  color: #ffffff;
+  height: 40px;
+  width: 200px;
+  padding: 0px;
+  margin: 5px;
+  float: left;
+}
+
+.emp {
+  color: inherit;
+  height: 40px;
+  width: 200px;
+  padding: 0px;
+  margin: 5px;
+  /*background-color: #f00000;*/
+}
+
+#login1 {
+  width: 50px;
+}
+#register1 {
+  width: 50px;
+}
+
+.main-layer {
+  color: #000000;
+  margin-left: 10px;
+  /*background-color: #0000ff;*/
+  height: 800px;
+  float: left;
+}
+
+.sub-layer {
+  border-bottom: solid #000000;
+  /*background-color: #00ffff;*/
+  margin-top: 5px;
+  margin-left: 2px;
+}
+
+.pack-holder {
+  /*background-color: #0000aa;*/
+  height: 140px;
+  margin: 5px;
+  border: solid #000000;
+}
+
+.clear {
+  clear: left; /* Отмена обтекания */
+}
+
+.profile, .question {
+  /*background-color: #000055;*/
+  color: #ffffff;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+}
+
+.question {
+  width: 340px;
+  float: left;
+}
+
+.answer-field {
+  /*background-color: #aaaaaa;*/
+  height: 140px;
+}
+
+
+
+
+
